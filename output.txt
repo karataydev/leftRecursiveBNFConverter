@@ -1,0 +1,10 @@
+<A> -> h <A2>
+<A2> -> epsilon
+<A2> -> b a f s <A2>
+<F> -> t
+<P> -> y
+<Ba> -> <C>
+<Pa> -> a
+<C> -> <C2>
+<C2> -> epsilon
+<C2> -> g <C2>
