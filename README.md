@@ -46,4 +46,4 @@ cd smthn/smthn/smnth
 #### WARNING! code may not work for every input
 
 
-[Maruf Emre KARATAY 20170702008]()
+[Maruf Emre KARATAY]()
